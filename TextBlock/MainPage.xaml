@@ -10,6 +10,7 @@
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <TextBlock Text="My name is Mohammed Ghazali"
                    FontSize="50"
+                   Margin="50"
                    >
             
         </TextBlock>
