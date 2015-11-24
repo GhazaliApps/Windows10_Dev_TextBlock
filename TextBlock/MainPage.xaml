@@ -8,11 +8,12 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <TextBlock Text="My name is Mohammed Ghazali"
-                   FontSize="50"
-                   Margin="50"
-                   >
-            
-        </TextBlock>
+        <TextBlock
+            Text="Hello World"
+            FontSize="100"
+            Foreground="Blue"
+            FontStyle="Italic"
+            HorizontalAlignment="Center"
+            ></TextBlock>
     </Grid>
 </Page>
